@@ -13,7 +13,7 @@
         <meta name="author" content="David Geovani, Andres Lopez, Jose Eduardo">
         <link rel="stylesheet" href="Index.css">
         <link rel="icon" href="img/Logo.jpeg">
-        <title>Storehousel</title>
+        <title>Storehouse</title>
     </head>
     <body>
       <div id="background">
